@@ -1,5 +1,5 @@
 ---
-status: building
+status: implemented
 title: Classic Snake Game
 ---
 
