@@ -1,5 +1,5 @@
 ---
-status: pending
+status: building
 title: Classic Snake Game
 ---
 
